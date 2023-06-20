@@ -1,4 +1,4 @@
-https://img.shields.io/github/languages/code-size/:user/:repo
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/:user/:repo)
 
 # dice_set
 
